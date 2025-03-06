@@ -1,0 +1,518 @@
+[
+    {
+        "db_id": "california_schools",
+        "level": "easy",
+        "question": "Which Asian countries have a population that is larger than any country in Africa?"
+    },
+    {
+        "db_id": "california_schools",
+        "level": "easy",
+        "question": "What are the names of conductors who have conducted orchestras founded after the year 2008?"
+    },
+    {
+        "db_id": "california_schools",
+        "level": "easy",
+        "question": "What are the opening year and staff number of the museum named Plaza Museum?"
+    },
+    {
+        "db_id": "california_schools",
+        "level": "medium",
+        "question": "What is the amount of students who are between 10 and 12?"
+    },
+    {
+        "db_id": "california_schools",
+        "level": "medium",
+        "question": "Show me all educational institutions where a person with the surname 'Smith' is principal."
+    },
+    {
+        "db_id": "california_schools",
+        "level": "medium",
+        "question": "List all the students from Texas! Give me their name and age."
+    },
+    {
+        "db_id": "california_schools",
+        "level": "hard",
+        "question": "How many students go to school at Cox Academy and have a SAT score higher than 1050?"
+    },
+    {
+        "db_id": "california_schools",
+        "level": "hard",
+        "question": "Which school employs the most teachers? Show me corresponding costs as well!"
+    },
+    {
+        "db_id": "california_schools",
+        "level": "hard",
+        "question": "Show me the highest SAT score of each scool?"
+    },
+
+
+    {
+        "db_id": "card_games",
+        "level": "easy",
+        "question": "Which country is the constructor which got 1 point in the race No. 24 from?"
+    },
+    {
+        "db_id": "card_games",
+        "level": "easy",
+        "question": "Rank heroes published by Marvel Comics by their height in descending order."
+    },
+    {
+        "db_id": "card_games",
+        "level": "easy",
+        "question": "What is the disease patient '30609' diagnosed with. List all the date of laboratory tests done for this patient."
+    },
+    {
+        "db_id": "card_games",
+        "level": "hard",
+        "question": "Please list all cards by artists who are older than 60. Also give their birthdays."
+    },
+    {
+        "db_id": "card_games",
+        "level": "hard",
+        "question": "Which card sets are banned in Europe? List them all with their code and set size."
+    },
+    {
+        "db_id": "card_games",
+        "level": "hard",
+        "question": "Give me all sets that have the use case 'magic tricks' and state their code!"
+    },
+    {
+        "db_id": "card_games",
+        "level": "medium",
+        "question": "Which decks were initially published in Italian and were translated into English later ?"
+    },
+    {
+        "db_id": "card_games",
+        "level": "medium",
+        "question": "Which player has the biggest collection of Creature decks?"
+    },
+    {
+        "db_id": "card_games",
+        "level": "medium",
+        "question": "Give me all designers from the Philippines along with their names."
+    },
+
+
+    {
+        "db_id": "codebase_community",
+        "level": "easy",
+        "question": "Rank heroes published by Marvel Comics by their height in descending order."
+    },
+    {
+        "db_id": "codebase_community",
+        "level": "easy",
+        "question": "What are the bonds that have phosphorus and nitrogen as their atom elements?"
+    },
+    {
+        "db_id": "codebase_community",
+        "level": "easy",
+        "question": "What is the biggest monthly consumption of the customers who use euro as their currency?"
+    },
+    {
+        "db_id": "codebase_community",
+        "level": "hard",
+        "question": "How many users where born in March?"
+    },
+    {
+        "db_id": "codebase_community",
+        "level": "hard",
+        "question": "Which tags have the most likes? List the top 5 liked tags!"
+    },
+    {
+        "db_id": "codebase_community",
+        "level": "hard",
+        "question": "Which post has the highest amount of badges? Give me its date and title."
+    },
+    {
+        "db_id": "codebase_community",
+        "level": "medium",
+        "question": "Show me the top 10 profiles based on the number of followers!"
+    },
+    {
+        "db_id": "codebase_community",
+        "level": "medium",
+        "question": "Give me the most shared community content on the platform. Show me the number of times shared and its title."
+    },
+    {
+        "db_id": "codebase_community",
+        "level": "medium",
+        "question": "Which labels where created by the profile named 'wahalulu'?"
+    },
+
+
+    {
+        "db_id": "debit_card_specializing",
+        "level": "easy",
+        "question": "How many female patients who came at the hospital in 1997 was immediately followed at the outpatient clinic?"
+    },
+    {
+        "db_id": "debit_card_specializing",
+        "level": "easy",
+        "question": "What is the football player Francois Affolter header's finishing rate on 18/09/2014?"
+    },
+    {
+        "db_id": "debit_card_specializing",
+        "level": "easy",
+        "question": "Which college is the vice president of the Student_Club from?"
+    },
+    {
+        "db_id": "debit_card_specializing",
+        "level": "hard",
+        "question": "What is the name of the customer with the highest consumption?"
+    },
+    {
+        "db_id": "debit_card_specializing",
+        "level": "hard",
+        "question": "List all products with a price higher than 20$. Give me their name and supplier."
+    },
+    {
+        "db_id": "debit_card_specializing",
+        "level": "hard",
+        "question": "Give me all transaction where the customer paid in cash! List the date, time, amount and price!"
+    },
+    {
+        "db_id": "debit_card_specializing",
+        "level": "medium",
+        "question": "What is the manager's name of the branch with the ID 47?"
+    },
+    {
+        "db_id": "debit_card_specializing",
+        "level": "medium",
+        "question": "How many clients are from Germany, Switzerland and Austria? Give me the total number."
+    },
+    {
+        "db_id": "debit_card_specializing",
+        "level": "medium",
+        "question": "Which trades involved an online payment method?"
+    },
+
+
+    {
+        "db_id": "european_football_2",
+        "level": "easy",
+        "question": "List all the names of events that had an attendance of over 20 students but were not fundraisers."
+    },
+    {
+        "db_id": "european_football_2",
+        "level": "easy",
+        "question": "Rank schools by their average score in Writing where the score is greater than 499, showing their charter numbers."
+    },
+    {
+        "db_id": "european_football_2",
+        "level": "easy",
+        "question": "What type of promotion is of card 'Duress'?"
+    },
+    {
+        "db_id": "european_football_2",
+        "level": "hard",
+        "question": "Give me all players that transferred to Manchester United in 2008!"
+    },
+    {
+        "db_id": "european_football_2",
+        "level": "hard",
+        "question": "How many teams are there with a stadium capacity higher than 50.000?"
+    },
+    {
+        "db_id": "european_football_2",
+        "level": "hard",
+        "question": "Give me all players from Argentina that played in the Premier League in 2020."
+    },
+    {
+        "db_id": "european_football_2",
+        "level": "medium",
+        "question": "Rank the most expensive transfers of the year 2009. Give me the top 10!"
+    },
+    {
+        "db_id": "european_football_2",
+        "level": "medium",
+        "question": "What was the average attendance of the Serie A and La Liga? Give the average for both!"
+    },
+    {
+        "db_id": "european_football_2",
+        "level": "medium",
+        "question": "Which club has the highest ticket prices? Give me the most expensive one from each competition."
+    },
+
+
+    {
+        "db_id": "financial",
+        "level": "easy",
+        "question": "Please list the Formula_1 races that Lewis Hamilton participated."
+    },
+    {
+        "db_id": "financial",
+        "level": "easy",
+        "question": "How many female superheroes are in Marvel Comics?"
+    },
+    {
+        "db_id": "financial",
+        "level": "easy",
+        "question": "Indicate the full names of the top 10 players with the highest number of penalties."
+    },
+    {
+        "db_id": "financial",
+        "level": "hard",
+        "question": "Does the client named 'Michael Scott' have an open loan? Give me its amount and duration!"
+    },
+    {
+        "db_id": "financial",
+        "level": "hard",
+        "question": "Which accounts are student specific accounts?"
+    },
+    {
+        "db_id": "financial",
+        "level": "hard",
+        "question": "How long does a transaction take on average to transfer the money to another account?"
+    },
+    {
+        "db_id": "financial",
+        "level": "medium",
+        "question": "Which currently active credit has the highest interest rates?"
+    },
+    {
+        "db_id": "financial",
+        "level": "medium",
+        "question": "How many customers have a financial record at Wells Fargo?"
+    },
+    {
+        "db_id": "financial",
+        "level": "medium",
+        "question": "What is the number of customers by branch?"
+    },
+
+
+    {
+        "db_id": "formula_1",
+        "level": "easy",
+        "question": "Please list the display names of all the users who owns a post that is well-finished."
+    },
+    {
+        "db_id": "formula_1",
+        "level": "easy",
+        "question": "How many schools in Fresno (directly funded) have number of test takers not more than 250?"
+    },
+    {
+        "db_id": "formula_1",
+        "level": "easy",
+        "question": "List out the accounts who have the earliest trading date in 1995 ?"
+    },
+    {
+        "db_id": "formula_1",
+        "level": "hard",
+        "question": "Order all drivers from the UK by weight. Give me the names, date of birth and weight!"
+    },
+    {
+        "db_id": "formula_1",
+        "level": "hard",
+        "question": "Which circuit has the highest amount of corners?"
+    },
+    {
+        "db_id": "formula_1",
+        "level": "hard",
+        "question": "Who won the fan voting 'Driver of the Day' in the race with the id 91?"
+    },
+    {
+        "db_id": "formula_1",
+        "level": "medium",
+        "question": "What is the fastest track on the calendar in 2015 in terms of average speed?"
+    },
+    {
+        "db_id": "formula_1",
+        "level": "medium",
+        "question": "Who is the CEO of Ferrari. Give me his name and age."
+    },
+    {
+        "db_id": "formula_1",
+        "level": "medium",
+        "question": "Which car of which competitor is the most valuable?"
+    },
+
+
+    {
+        "db_id": "student_club",
+        "level": "easy",
+        "question": "How many atoms belong to the molecule that element is hydrogen and labeled with carcinogenic compound?"
+    },
+    {
+        "db_id": "student_club",
+        "level": "easy",
+        "question": "Please list the websites where I can purchase the cards that have the promotional type of 'bundle'."
+    },
+    {
+        "db_id": "student_club",
+        "level": "easy",
+        "question": "Name the tallest superhero."
+    },
+    {
+        "db_id": "student_club",
+        "level": "hard",
+        "question": "What is the name of the leading tutor of the major 'Finance' in the 'School of Business'?"
+    },
+    {
+        "db_id": "student_club",
+        "level": "hard",
+        "question": "What share of the total income was generated where the payment method was 'cash'?"
+    },
+    {
+        "db_id": "student_club",
+        "level": "hard",
+        "question": "How many events were concerts, where at least one singer made an appearance?"
+    },
+    {
+        "db_id": "student_club",
+        "level": "medium",
+        "question": "Who is the youngest student in the entire club?"
+    },
+    {
+        "db_id": "student_club",
+        "level": "medium",
+        "question": "Which happenings were organized by the 'College of Agriculture and Applied Sciences'?"
+    },
+    {
+        "db_id": "student_club",
+        "level": "medium",
+        "question": "What is the share of female students in the club? Also give me the total number."
+    },
+
+
+    {
+        "db_id": "superhero",
+        "level": "easy",
+        "question": "What is the grade span offered in the school with the highest longitude?"
+    },
+    {
+        "db_id": "superhero",
+        "level": "easy",
+        "question": "Calculate the percentage of account from 'Decin' district for all accounts are opened in 1993."
+    },
+    {
+        "db_id": "superhero",
+        "level": "easy",
+        "question": "Please provide the names of top three football players who are over 180 cm tall in alphabetical order."
+    },
+    {
+        "db_id": "superhero",
+        "level": "hard",
+        "question": "How many superheroes wear capes?"
+    },
+    {
+        "db_id": "superhero",
+        "level": "hard",
+        "question": "Which are the bottom 5 superheros in terms of kill count? Give me their name, height and weight."
+    },
+    {
+        "db_id": "superhero",
+        "level": "hard",
+        "question": "List the top 10 superheros by age. Start with the oldest."
+    },
+    {
+        "db_id": "superhero",
+        "level": "medium",
+        "question": "How many Spiderman movies are there? List all with title, release year and director."
+    },
+    {
+        "db_id": "superhero",
+        "level": "medium",
+        "question": "Give me all figures, which regularly wear a headpiece. Also return the type of headpiece."
+    },
+    {
+        "db_id": "superhero",
+        "level": "medium",
+        "question": "What was the total amount of revenue generated with 'Hercules' merch?"
+    },
+
+
+    {
+        "db_id": "thrombosis_prediction",
+        "level": "easy",
+        "question": "In the 2015–2016 season, how many games were played in the Italian Serie A league?"
+    },
+    {
+        "db_id": "thrombosis_prediction",
+        "level": "easy",
+        "question": "Which race has the shortest actual finishing time? Please give the name and year."
+    },
+    {
+        "db_id": "thrombosis_prediction",
+        "level": "easy",
+        "question": "Based on posts posted by Community, calculate the percentage of posts that use the R language."
+    },
+    {
+        "db_id": "thrombosis_prediction",
+        "level": "hard",
+        "question": "What is the most common sympton for patients who are taller than 2 meters?"
+    },
+    {
+        "db_id": "thrombosis_prediction",
+        "level": "hard",
+        "question": "List the top 10 examinations in terms of duration in minutes! Please include the date as well as the diagnosis."
+    },
+    {
+        "db_id": "thrombosis_prediction",
+        "level": "hard",
+        "question": "What is the name of the laboratory located in San Francisco?"
+    },
+    {
+        "db_id": "thrombosis_prediction",
+        "level": "medium",
+        "question": "Which illness takes the longest to recover from?"
+    },
+    {
+        "db_id": "thrombosis_prediction",
+        "level": "medium",
+        "question": "Please give me the name and age of the doctor, who conducts most checkups?"
+    },
+    {
+        "db_id": "thrombosis_prediction",
+        "level": "medium",
+        "question": "What is the average weight of all individuals with 'PSS'?"
+    },
+
+
+    {
+        "db_id": "toxicology",
+        "level": "easy",
+        "question": "How many transactions were paid in CZK in the morning of 2012/8/26?"
+    },
+    {
+        "db_id": "toxicology",
+        "level": "easy",
+        "question": "How many patients who were female got white blood cells that were below 3.5?"
+    },
+    {
+        "db_id": "toxicology",
+        "level": "easy",
+        "question": "How much is the average amount in credit card made by account holders in a month, in year 2021?"
+    },
+    {
+        "db_id": "toxicology",
+        "level": "hard",
+        "question": "List all molecules that react with a temperature over 50 degree celsius."
+    },
+    {
+        "db_id": "toxicology",
+        "level": "hard",
+        "question": "Which atoms are from the type isotope?"
+    },
+    {
+        "db_id": "toxicology",
+        "level": "hard",
+        "question": "Which is the element with the highest density?"
+    },
+    {
+        "db_id": "toxicology",
+        "level": "medium",
+        "question": "How many instances require 10 bar in order to react?"
+    },
+    {
+        "db_id": "toxicology",
+        "level": "medium",
+        "question": "Which particles are classified as sensitive to sunlight?"
+    },
+    {
+        "db_id": "toxicology",
+        "level": "medium",
+        "question": "What is the most common particle on earth?"
+    }
+    
+]
