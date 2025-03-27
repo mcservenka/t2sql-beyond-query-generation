@@ -5,3 +5,6 @@ State-of-the-Art Text-to-SQL benchmarks represent one-dimensional challenges for
 >Cservenka, Markus. "Beyond Query Generation: Assessing Unanswerable Questions in Text-to-SQL", 2025.
 
 Link to paper following soon...
+
+## Environment Setup
+To set up the environment, start by downloading the development sets of [Spider](https://yale-lily.github.io/spider) and [BIRD-SQL](https://bird-bench.github.io/) to the folders `./data/datasets/spider` and `./data/datasets/bird/dev` respectively. The samples, which were created and defined in the scope of the paper, are located in `./data/no_answer`.
