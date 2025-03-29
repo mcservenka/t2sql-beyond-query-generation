@@ -15,7 +15,7 @@ git submodule add https://github.com/taoyds/test-suite-sql-eval.git external/tes
 git submodule update --init --recursive
 ```
 Additionally, you need to copy [BIRD-SQL's](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/bird) `evaluation.py` from `DAMO-ConvAI/bird/llm/src` to `./external/bird`.  <br>
-Make sure to define the OpenAI and TogetherAI keys in your environment variables as `OPENAI_API_KEY`, `OPENAI_API_ORGANIZATION`, `OPENAI_API_PROJECT` and `TOGETHERAI_API_KEY`. You can also use the `dotenv`-package.
+Make sure to define the OpenAI and TogetherAI API keys in your environment variables as `OPENAI_API_KEY`, `OPENAI_API_ORGANIZATION`, `OPENAI_API_PROJECT` and `TOGETHERAI_API_KEY`. You can also use the `dotenv`-package.
 
 ## Environment Setup
 Now set up the Python environment:
