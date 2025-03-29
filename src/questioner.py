@@ -26,8 +26,7 @@ class Questioner:
                 dev = json.load(f)
             with open(BIRD_NO_ANSWER_PATH, "r") as f:
                 noanswer = json.load(f)
-
-        
+       
         
         samples = dev + noanswer
 

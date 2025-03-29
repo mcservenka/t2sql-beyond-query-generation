@@ -1,0 +1,940 @@
+[
+    {
+        "db_id": "battle_death",
+        "level": "easy",
+        "question": "Which Asian countries have a population that is larger than any country in Africa?"
+    },
+    {
+        "db_id": "battle_death",
+        "level": "easy",
+        "question": "How many heads of the departments are older than 56 ?"
+    },
+    {
+        "db_id": "battle_death",
+        "level": "easy",
+        "question": "List all dogs older than 7 years!"
+    },
+    {
+        "db_id": "battle_death",
+        "level": "hard",
+        "question": "How many ships that lost a battle in 1993 where built in Europe?"
+    },
+    {
+        "db_id": "battle_death",
+        "level": "hard",
+        "question": "Show the number of killings by cause of death."
+    },
+    {
+        "db_id": "battle_death",
+        "level": "hard",
+        "question": "List the ships that were involved in battles in Africa."
+    },
+    {
+        "db_id": "battle_death",
+        "level": "medium",
+        "question": "What is the number of conflicts that involved special weapons?"
+    },
+    {
+        "db_id": "battle_death",
+        "level": "medium",
+        "question": "How many people died from the Spanish flu in 1925?"
+    },
+    {
+        "db_id": "battle_death",
+        "level": "medium",
+        "question": "How many tanks were deployed in the conflicts before 1900?"
+    },
+
+
+    {
+        "db_id": "car_1",
+        "level": "easy",
+        "question": "What are the full name, hire data, salary and department id for employees without the letter M in their first name, ordered by ascending department id?"
+    },
+    {
+        "db_id": "car_1",
+        "level": "easy",
+        "question": "Show the description of the transaction type that occurs most frequently."
+    },
+    {
+        "db_id": "car_1",
+        "level": "easy",
+        "question": "Give me the the customer details and id for the customers who had two or more policies but did not file any claims."
+    },
+    {
+        "db_id": "car_1",
+        "level": "hard",
+        "question": "Which countries are part of the European Union?"
+    },
+    {
+        "db_id": "car_1",
+        "level": "hard",
+        "question": "How many cars with horsepower higher than 100 were sold in 2024 ?"
+    },
+    {
+        "db_id": "car_1",
+        "level": "hard",
+        "question": "List all the cars that are available in matte black!"
+    },
+    {
+        "db_id": "car_1",
+        "level": "medium",
+        "question": "Which vehicle is the most secure according to the number of accidents!"
+    },
+    {
+        "db_id": "car_1",
+        "level": "medium",
+        "question": "Where were most vehicles produced in 2024?"
+    },
+    {
+        "db_id": "car_1",
+        "level": "medium",
+        "question": "Which vehicle generates the most revenue?"
+    },
+
+
+    {
+        "db_id": "concert_singer",
+        "level": "easy",
+        "question": "How many companies generated a revenue higher than 2000000?"
+    },
+    {
+        "db_id": "concert_singer",
+        "level": "easy",
+        "question": "What are the emails of employees with null commission, salary between 7000 and 12000, and who work in department 50?"
+    },
+    {
+        "db_id": "concert_singer",
+        "level": "easy",
+        "question": "List all chefs employed in the biggest branch."
+    },
+    {
+        "db_id": "concert_singer",
+        "level": "hard",
+        "question": "How many concerts were sold out during 2014 and 2017?"
+    },
+    {
+        "db_id": "concert_singer",
+        "level": "hard",
+        "question": "Which singer generated the highest amount of revenue with concerts in the United States?"
+    },
+    {
+        "db_id": "concert_singer",
+        "level": "hard",
+        "question": "List all stadiums which are used for hosting football games?"
+    },
+    {
+        "db_id": "concert_singer",
+        "level": "medium",
+        "question": "Which facilities are most expensive?"
+    },
+    {
+        "db_id": "concert_singer",
+        "level": "medium",
+        "question": "Show all the artists, who have already won a Grammy Award!"
+    },
+    {
+        "db_id": "concert_singer",
+        "level": "medium",
+        "question": "List the top 10 from tallest to smallest."
+    },
+
+
+    {
+        "db_id": "course_teach",
+        "level": "easy",
+        "question": "What are the dog name, age and weight of the dogs that were abandoned? Note that 1 stands for yes, and 0 stands for no in the tables."
+    },
+    {
+        "db_id": "course_teach",
+        "level": "easy",
+        "question": "Which types of products were sold the most in the year of 2021?"
+    },
+    {
+        "db_id": "course_teach",
+        "level": "easy",
+        "question": "Which unique cities are in Asian countries where Chinese is the official language ?"
+    },
+    {
+        "db_id": "course_teach",
+        "level": "hard",
+        "question": "Give me the sum of students that visited courses of Joseph Huts."
+    },
+    {
+        "db_id": "course_teach",
+        "level": "hard",
+        "question": "Which courses are the most popular in terms of participating students ?"
+    },
+    {
+        "db_id": "course_teach",
+        "level": "hard",
+        "question": "List the top 5 teachers according to years of experience!"
+    },
+    {
+        "db_id": "course_teach",
+        "level": "medium",
+        "question": "What are the top schools in the country based on the number of students?"
+    },
+    {
+        "db_id": "course_teach",
+        "level": "medium",
+        "question": "Which level of education is most common within the group of tutors?"
+    },
+    {
+        "db_id": "course_teach",
+        "level": "medium",
+        "question": "Show the total hours of effort per class!"
+    },
+
+
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "level": "easy",
+        "question": "Which animals weighs the most? Give me the name of the animal as well as the weight in kg."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "level": "easy",
+        "question": "What are the names of accounts with checking balances greater than the average checking balance and savings balances below the average savings balance?"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "level": "easy",
+        "question": "Show name, class, and date for all races."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "level": "hard",
+        "question": "List all documents ordered by their size in kilobyte (kb)."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "level": "hard",
+        "question": "Which templates contain images? List them with version number and template id."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "level": "hard",
+        "question": "Give me the number of documents that were used more than 200 times by all users."
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "level": "medium",
+        "question": "Show me the top 5 newest passages. Order the output by creation date!"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "level": "medium",
+        "question": "List the number of files grouped by file type!"
+    },
+    {
+        "db_id": "cre_Doc_Template_Mgt",
+        "level": "medium",
+        "question": "Which patterning was used the most by the user John Doe?"
+    },
+
+    
+    {
+        "db_id": "dog_kennels",
+        "level": "easy",
+        "question": "Give me the maximum low temperature and average precipitation at the Amersham station."
+    },
+    {
+        "db_id": "dog_kennels",
+        "level": "easy",
+        "question": "List the average gas price in Austria per year during 2010 to 2020!"
+    },
+    {
+        "db_id": "dog_kennels",
+        "level": "easy",
+        "question": "Which country has the most official languages? Show me its name and population."
+    },
+    {
+        "db_id": "dog_kennels",
+        "level": "hard",
+        "question": "List the duration of each treatment and the corresponding treatment type description."
+    },
+    {
+        "db_id": "dog_kennels",
+        "level": "hard",
+        "question": "Who is the oldest owner of a dog?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "level": "hard",
+        "question": "Which dog breed lives the longest on average?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "level": "medium",
+        "question": "Which animal is the he can survive the longest without any water?"
+    },
+    {
+        "db_id": "dog_kennels",
+        "level": "medium",
+        "question": "How many animals were adopted in the UK in 2023?"
+    },    
+    {
+        "db_id": "dog_kennels",
+        "level": "medium",
+        "question": "List all the cats available for adoption!"
+    },
+
+    
+    {
+        "db_id": "employee_hire_evaluation",
+        "level": "easy",
+        "question": "What is the first name of every student who has a dog but does not have a cat?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "level": "easy",
+        "question": "What is the Package Option of TV Channel with serial name Sky Radio?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "level": "easy",
+        "question": "What are the average and maximum number of tickets bought in all visits?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "level": "hard",
+        "question": "What is the average salary of all employees of the shop in Kotka?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "level": "hard",
+        "question": "Which shop generates the most revenue? Give me the shop name that generated the most revenue in 2020."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "level": "hard",
+        "question": "How many employees have a university degree?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "level": "medium",
+        "question": "Which products were sold most by the store in Lahti?"
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "level": "medium",
+        "question": "Who of all the employees is Greek? Give me their personnel number and their last paycheck details."
+    },
+    {
+        "db_id": "employee_hire_evaluation",
+        "level": "medium",
+        "question": "List all the reasons for awarding rewards to our workers?"
+    },
+
+    
+    {
+        "db_id": "flight_2",
+        "level": "easy",
+        "question": "Return the average attendance across all shows."
+    },
+    {
+        "db_id": "flight_2",
+        "level": "easy",
+        "question": "What are all the song names by singers who are older than average?"
+    },
+    {
+        "db_id": "flight_2",
+        "level": "easy",
+        "question": "What are the create dates, states, and phone numbers of the votes that were for the contestant named 'Tabatha Gehling'?"
+    },
+    {
+        "db_id": "flight_2",
+        "level": "hard",
+        "question": "Which airlines transported the highest amount of people over on month? Give me the top 5 of 2024!"
+    },
+    {
+        "db_id": "flight_2",
+        "level": "hard",
+        "question": "List all the flights that were overbooked in the year of 2015."
+    },
+    {
+        "db_id": "flight_2",
+        "level": "hard",
+        "question": "Which airport is the most expensive for airlines?"
+    },
+    {
+        "db_id": "flight_2",
+        "level": "medium",
+        "question": "What planes are used by the organization named Jetblue Airways?"
+    },
+    {
+        "db_id": "flight_2",
+        "level": "medium",
+        "question": "How many aircrafts does each organization own? Order the ouput by the sum of planes."
+    },
+    {
+        "db_id": "flight_2",
+        "level": "medium",
+        "question": "How many passengers were transfered from Aberdeen to Ashley in 2019?"
+    },
+
+    
+    {
+        "db_id": "museum_visit",
+        "level": "easy",
+        "question": "What are the airline names and abbreviations for airlines in the USA?"
+    },
+    {
+        "db_id": "museum_visit",
+        "level": "easy",
+        "question": "What are the names of players who won in both 2013 and 2016?"
+    },
+    {
+        "db_id": "museum_visit",
+        "level": "easy",
+        "question": "Which distinct car models are the produced after 1980?"
+    },
+    {
+        "db_id": "museum_visit",
+        "level": "hard",
+        "question": "Show me all the museums that focus on sculptures and paintings. Order them by the year they opened."
+    },
+    {
+        "db_id": "museum_visit",
+        "level": "hard",
+        "question": "What is the amount of visitors coming from France?"
+    },
+    {
+        "db_id": "museum_visit",
+        "level": "hard",
+        "question": "What is the average level of education of our visitors?"
+    },
+    {
+        "db_id": "museum_visit",
+        "level": "medium",
+        "question": "How many vouchers were redeemed in the Capital Plaza Museum ?"
+    },
+    {
+        "db_id": "museum_visit",
+        "level": "medium",
+        "question": "What is the total number of women attending our exhibitions?"
+    },
+    {
+        "db_id": "museum_visit",
+        "level": "medium",
+        "question": "Which exhibition was the most successful in terms of revenue?"
+    },
+
+    
+    {
+        "db_id": "network_1",
+        "level": "easy",
+        "question": "Find the maximum and minimum monthly rental for all student addresses."
+    },
+    {
+        "db_id": "network_1",
+        "level": "easy",
+        "question": "List the writers who have written more than one book."
+    },
+    {
+        "db_id": "network_1",
+        "level": "easy",
+        "question": "What are the first names and last names of the employees who live in Calgary city?"
+    },
+    {
+        "db_id": "network_1",
+        "level": "hard",
+        "question": "How many Students have friends with an average grade of B+?"
+    },
+    {
+        "db_id": "network_1",
+        "level": "hard",
+        "question": "List all the highschoolers that have friends from college!"
+    },
+    {
+        "db_id": "network_1",
+        "level": "hard",
+        "question": "Show me the oldest highschoolers as well as the total number of likes received! List the top 5 by age."
+    },
+    {
+        "db_id": "network_1",
+        "level": "medium",
+        "question": "What is the average age of all students?"
+    },
+    {
+        "db_id": "network_1",
+        "level": "medium",
+        "question": "Give me all the students that are connected with at least one teacher."
+    },
+    {
+        "db_id": "network_1",
+        "level": "medium",
+        "question": "How many students commented on posts of their buddies?"
+    },
+
+    
+    {
+        "db_id": "orchestra",
+        "level": "easy",
+        "question": "How many drivers participated in the race Australian Grand Prix held in 2009?"
+    },
+    {
+        "db_id": "orchestra",
+        "level": "easy",
+        "question": "What is the primary conference of the school that has the lowest acc percent score in the competition?"
+    },
+    {
+        "db_id": "orchestra",
+        "level": "easy",
+        "question": "Find the titles of all movies that have no ratings."
+    },
+    {
+        "db_id": "orchestra",
+        "level": "hard",
+        "question": "Find all the conductors who were born after 1990. Give their names and nationality."
+    },
+    {
+        "db_id": "orchestra",
+        "level": "hard",
+        "question": "List the top 10 performances according to length. Start with the shortest performance."
+    },
+    {
+        "db_id": "orchestra",
+        "level": "hard",
+        "question": "Which orchestra focuses on compositions by Mozart?"
+    },
+    {
+        "db_id": "orchestra",
+        "level": "medium",
+        "question": "List the songs included in the Auditions 1?"
+    },
+    {
+        "db_id": "orchestra",
+        "level": "medium",
+        "question": "Which instruments are most popular in the Seattle Symphony?"
+    },
+    {
+        "db_id": "orchestra",
+        "level": "medium",
+        "question": "How many female orchestrators are there?"
+    },
+
+    
+    {
+        "db_id": "pets_1",
+        "level": "easy",
+        "question": "Return the name, location and district of all shops in descending order of number of products."
+    },
+    {
+        "db_id": "pets_1",
+        "level": "easy",
+        "question": "What are the lot details of lots associated with transactions with share count smaller than 50?"
+    },
+    {
+        "db_id": "pets_1",
+        "level": "easy",
+        "question": "Find the number of users who posted some tweets."
+    },    
+    {
+        "db_id": "pets_1",
+        "level": "hard",
+        "question": "What is the average grade of the students owning a pet?"
+    },    
+    {
+        "db_id": "pets_1",
+        "level": "hard",
+        "question": "Give me the costs of having a pet of the type dog! Take the average costs by student!"
+    },    
+    {
+        "db_id": "pets_1",
+        "level": "hard",
+        "question": "Which pet type is most popular among teachers?"
+    },
+    {
+        "db_id": "pets_1",
+        "level": "medium",
+        "question": "Which breed of dog is most popular according to our data?"
+    },
+    {
+        "db_id": "pets_1",
+        "level": "medium",
+        "question": "How many animals are still looking for a home and have not been adopted yet?"
+    },
+    {
+        "db_id": "pets_1",
+        "level": "medium",
+        "question": "Show me the number of Austrian students owning a pet?"
+    },
+
+    
+    {
+        "db_id": "poker_player",
+        "level": "easy",
+        "question": "Show id and location of railways that are associated with more than one train."
+    },
+    {
+        "db_id": "poker_player",
+        "level": "easy",
+        "question": "What is the name and sex of the candidate with the highest support rate?"
+    },
+    {
+        "db_id": "poker_player",
+        "level": "easy",
+        "question": "Find the number of adults for the room reserved and checked in by CONRAD SELBIG on Oct 23, 2010."
+    },
+    {
+        "db_id": "poker_player",
+        "level": "hard",
+        "question": "How many poker players live in Europe?"
+    },
+    {
+        "db_id": "poker_player",
+        "level": "hard",
+        "question": "Which poker tournament is the most popular according to the number of participations?"
+    },
+    {
+        "db_id": "poker_player",
+        "level": "hard",
+        "question": "What are the earnings of english poker players after tax on average?"
+    },
+    {
+        "db_id": "poker_player",
+        "level": "medium",
+        "question": "How many gamblers are banned from more than one tournament?"
+    },
+    {
+        "db_id": "poker_player",
+        "level": "medium",
+        "question": "List all the gamblers who participated in at least 3 tournaments. Give me their Year of Birth as well."
+    },
+    {
+        "db_id": "poker_player",
+        "level": "medium",
+        "question": "Which tournaments bring the highest winnings per participant?"
+    },
+
+    
+    {
+        "db_id": "real_estate_properties",
+        "level": "easy",
+        "question": "What is the ship id and name that caused most total injuries?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "level": "easy",
+        "question": "Which vegetable has the most calories?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "level": "easy",
+        "question": "What is the ship with the largest amount of tonnage called?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "level": "hard",
+        "question": "Give me all the properties that were sold on the platform ImmoGuru?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "level": "hard",
+        "question": "List the top 20 properties by Square footage. Start with the biggest property."
+    },
+    {
+        "db_id": "real_estate_properties",
+        "level": "hard",
+        "question": "How many properties were sold by a real estate agent named 'Smith'?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "level": "medium",
+        "question": "What is the amount of houses, that were sold to British buyers?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "level": "medium",
+        "question": "How many years, on average, does it take to renovate a house?"
+    },
+    {
+        "db_id": "real_estate_properties",
+        "level": "medium",
+        "question": "What is the biggest room of the object with the id 1?"
+    },
+
+    
+    {
+        "db_id": "singer",
+        "level": "easy",
+        "question": "Give the airport code and airport name corresonding to the city Anthony."
+    },
+    {
+        "db_id": "singer",
+        "level": "easy",
+        "question": "How many hours do the players train on average?"
+    },
+    {
+        "db_id": "singer",
+        "level": "easy",
+        "question": "Show the most common college of authors of submissions."
+    },
+    {
+        "db_id": "singer",
+        "level": "hard",
+        "question": "Who is the tallest singer. Give me his or her name and height."
+    },
+    {
+        "db_id": "singer",
+        "level": "hard",
+        "question": "How many albums did the singer 'Jacqueline Mars' publish after 2013?"
+    },
+    {
+        "db_id": "singer",
+        "level": "hard",
+        "question": "Which is the most successfull song in terms of Spotify streams?"
+    },
+    {
+        "db_id": "singer",
+        "level": "medium",
+        "question": "List the top3 albums according to number of tunes. Start with the biggest album and end with the smallest."
+    },
+    {
+        "db_id": "singer",
+        "level": "medium",
+        "question": "Give me the artist, who released the fewest tunes in 2013."
+    },
+    {
+        "db_id": "singer",
+        "level": "medium",
+        "question": "Which music label represents the most successfull artists?"
+    },
+
+    
+    {
+        "db_id": "student_transcripts_tracking",
+        "level": "easy",
+        "question": "List all channel names ordered by their rating in percent from big to small."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "level": "easy",
+        "question": "What are the names and location of the wrestlers?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "level": "easy",
+        "question": "List the grapes and appelations of all wines."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "level": "hard",
+        "question": "List the hardest courses of the computer science department according to student gradings. Give me the top 5!"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "level": "hard",
+        "question": "Which departments have the highest number of teachers?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "level": "hard",
+        "question": "Who of all the students earns the most from their part-time job?"
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "level": "medium",
+        "question": "Give me the top 5 professors by salary."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "level": "medium",
+        "question": "Which university is most expensive? Show me its name and the annual fees on average."
+    },
+    {
+        "db_id": "student_transcripts_tracking",
+        "level": "medium",
+        "question": "Which nationality is the most common among all scholars?"
+    },
+
+    
+    {
+        "db_id": "tvshow",
+        "level": "easy",
+        "question": "What is the average latitude and longitude of stations located in San Jose city?"
+    },
+    {
+        "db_id": "tvshow",
+        "level": "easy",
+        "question": "Find the ids and names of members who are under age 30 or with black membership card."
+    },
+    {
+        "db_id": "tvshow",
+        "level": "easy",
+        "question": "List the dates of debates with number of audience bigger than 150"
+    },
+    {
+        "db_id": "tvshow",
+        "level": "hard",
+        "question": "What is the most popular documentary on the tv channel MTV Hits? Take the amount viewers as reference for popularity."
+    },
+    {
+        "db_id": "tvshow",
+        "level": "hard",
+        "question": "How many viewers did the cartoon 'The Rise of the Blue Beetle!' have?"
+    },
+    {
+        "db_id": "tvshow",
+        "level": "hard",
+        "question": "List the channels that are also available via online streaming."
+    },
+    {
+        "db_id": "tvshow",
+        "level": "medium",
+        "question": "Give me only the shows that have won an Oscar. Sort them by viewership."
+    },
+    {
+        "db_id": "tvshow",
+        "level": "medium",
+        "question": "Are comedy shows more successfull than soap operas in Italy? Keep in mind that success is determined by the number of awards."
+    },
+    {
+        "db_id": "tvshow",
+        "level": "medium",
+        "question": "List all broadcasting networks, which have their main HQs in Chicago, Illinois."
+    },
+
+    
+    {
+        "db_id": "voter_1",
+        "level": "easy",
+        "question": "Which shipping agent shipped the most documents? List the shipping agent name and the number of documents."
+    },
+    {
+        "db_id": "voter_1",
+        "level": "easy",
+        "question": "Show the names of members and names of colleges they go to."
+    },
+    {
+        "db_id": "voter_1",
+        "level": "easy",
+        "question": "What are the official names of cities, ordered descending by population?"
+    },
+    {
+        "db_id": "voter_1",
+        "level": "hard",
+        "question": "Name all the contestants that are taller than 180cm."
+    },
+    {
+        "db_id": "voter_1",
+        "level": "hard",
+        "question": "Which state has the biggest population? Show me the top 5."
+    },
+    {
+        "db_id": "voter_1",
+        "level": "hard",
+        "question": "What is the amount of votes for the democratic party? Count them across all states."
+    },
+    {
+        "db_id": "voter_1",
+        "level": "medium",
+        "question": "Name all available types of elections, ordered alphabetically!"
+    },
+    {
+        "db_id": "voter_1",
+        "level": "medium",
+        "question": "Who of all candidates has most years of experience in politics?"
+    },
+    {
+        "db_id": "voter_1",
+        "level": "medium",
+        "question": "Which election had the highest electoral turnout in the United States since 1990?"
+    },
+
+    
+    {
+        "db_id": "world_1",
+        "level": "easy",
+        "question": "Compute the average salary of the players in the team called 'Boston Red Stockings'."
+    },
+    {
+        "db_id": "world_1",
+        "level": "easy",
+        "question": "What is the average number of audience for festivals?"
+    },
+    {
+        "db_id": "world_1",
+        "level": "easy",
+        "question": "What are the names and seatings for all tracks opened after 2000, ordered by seating?"
+    },
+    {
+        "db_id": "world_1",
+        "level": "hard",
+        "question": "List all countries were same-sex marriage is legal, ordered alphabetically."
+    },
+    {
+        "db_id": "world_1",
+        "level": "hard",
+        "question": "Give me the top 10 cities by average income per household in descending order."
+    },
+    {
+        "db_id": "world_1",
+        "level": "hard",
+        "question": "Which countries have the highest shares of freigners? Show me the top 10."
+    },
+    {
+        "db_id": "world_1",
+        "level": "medium",
+        "question": "Name the current minister of defense of Mexico. Also give me his age."
+    },
+    {
+        "db_id": "world_1",
+        "level": "medium",
+        "question": "Which nation has won the FIFA World Cup in 2010?"
+    },
+    {
+        "db_id": "world_1",
+        "level": "medium",
+        "question": "What are the capitals of Canada, Mexico and Argentina?"
+    },
+
+    
+    {
+        "db_id": "wta_1",
+        "level": "easy",
+        "question": "What are the maximum and minimum share of performances whose type is not 'Live final'."
+    },
+    {
+        "db_id": "wta_1",
+        "level": "easy",
+        "question": "Show the pair of male and female names in all weddings after year 2014"
+    },
+    {
+        "db_id": "wta_1",
+        "level": "easy",
+        "question": "Who are the ministers who took office after 1961 or before 1959?"
+    },
+    {
+        "db_id": "wta_1",
+        "level": "hard",
+        "question": "Are there players taller than 200cm, who have won more than 10 matches? List them all."
+    },
+    {
+        "db_id": "wta_1",
+        "level": "hard",
+        "question": "How many tournaments did Carlos Alcaraz win?"
+    },
+    {
+        "db_id": "wta_1",
+        "level": "hard",
+        "question": "Rank all players by the price money they have won in their career. Give me the top 10."
+    },
+    {
+        "db_id": "wta_1",
+        "level": "medium",
+        "question": "Which tennis racket is most used by the top 10 players? Give me the brand name."
+    },
+    {
+        "db_id": "wta_1",
+        "level": "medium",
+        "question": "How many balls were lost during the Wimbledon Championships 2014?"
+    },
+    {
+        "db_id": "wta_1",
+        "level": "medium",
+        "question": "Who is the tallest of all WTA athletes?"
+    }
+]

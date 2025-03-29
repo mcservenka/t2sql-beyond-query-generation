@@ -144,6 +144,61 @@ class Evaluator:
             json.dump(scores, f, ensure_ascii=False, indent=4)
 
 
+    def print_tdexa(self):
+        
+        datasets = [self.dataset]
+        models = [self.model_name]
+
+        for m in models:
+            for d in datasets:
+                path = f"data/results/{d}/{m}/eval_results.json"
+                with open(path, "r") as f:
+                    res = json.load(f)
+
+                correct = 0
+                for i, r in enumerate(res):
+                    if r["score"] == 1: correct += 1
+
+                evalresult = round(correct / len(res) * 100, 2)
+
+                print(f"{m} | {d} | {evalresult}")
+    
+
+    def print_confusion_matrix(self):
+        # confusion matrix (classification performance)
+        datasets = [self.dataset]
+        models = [self.model_name]
+
+        for m in models:
+            for d in datasets:
+                path = f"data/results/{d}/{m}/eval_results.json"
+                with open(path, "r") as f:
+                    res = json.load(f)
+
+                # actual_predicted
+                answerable_answerable = 0
+                answerable_unanswerable = 0
+                unanswerable_answerable = 0
+                unanswerable_unanswerable = 0
+                for i, r in enumerate(res):
+                    if r["gold"] == "0":
+                        if r["pred"] == "0":
+                            unanswerable_unanswerable += 1
+                        else:
+                            unanswerable_answerable += 1
+                    else:
+                        if r["pred"] == "0":
+                            answerable_unanswerable += 1
+                        else:
+                            answerable_answerable += 1            
+
+                evalresult = f"""QaPa: {round(answerable_answerable / len(res) * 100, 2)} ({answerable_answerable}) -- 
+                                QaPu: {round(answerable_unanswerable / len(res) * 100, 2)} ({answerable_unanswerable}) -- 
+                                QuPa: {round(unanswerable_answerable / len(res) * 100, 2)} ({unanswerable_answerable}) -- 
+                                QuPu: {round(unanswerable_unanswerable / len(res) * 100, 2)} ({unanswerable_unanswerable})"""
+
+                print(f"{m} | {d} | {evalresult}")
+
 def load_sql_lines(path: str):
     with open(path) as f:
         qlist = []
