@@ -24,8 +24,19 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
-## Preprocessing
-For running the preprocessing procedures run `preprocess.py` and set the dataset parameter to 'spider' or 'bird'. This will create the M-Schemas and final prompts.
+## Experiment
+Follow the steps down below to recreate the experiment.
+### Preprocessing
+To execute the preprocessing procedures run `preprocess.py` and set the dataset parameter to 'spider' or 'bird'. This will create the M-Schemas and final prompts.
 ```
 python preprocess.py --dataset spider
 ```
+
+### Generate Predictions
+In terms of LLMs utilized within this study, open- and closed-source LLMs were tested, which is common in this field of research. The first category consists of the models `Qwen/Qwen2.5-Coder-32B-Instruct` and `meta-llama/Llama-3.3-70B-Instruct-Turbo` provided by TogetherAI (`together`). For close-source models `gpt-4o-2024-08-06` and `gpt-3.5-turbo-0125` by OpenAI (`openai`) were selected. To generate the individual results run the following command for each model and dataset:
+```
+python generate.py --dataset spider --provider openai --model gpt-4o-2024-08-06
+```
+
+### Evaluate Results
+
