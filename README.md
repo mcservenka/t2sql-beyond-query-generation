@@ -39,4 +39,41 @@ python generate.py --dataset spider --provider openai --model gpt-4o-2024-08-06
 ```
 
 ### Evaluate Results
+To evaluate the results run the following:
+```
+python evaluate.py --dataset spider --model gpt-4o-2024-08-06
+```
 
+## Results
+Please note that the results may vary due to the inherent stochasticity of the LLM.
+<table>
+    <tr>
+        <td> TDExA by Model </td>
+        <td> Spider </td>
+        <td> BIRD-SQL </td>
+    </tr>
+    <tr>
+        <td> GPT-4o </td>
+        <td> 78.67 % </td>
+        <td> 58.85 % </td>
+    </tr>
+    <tr>
+        <td> GPT-3.5-turbo </td>
+        <td> 66.39 % </td>
+        <td> 48.99 % </td>
+    </tr>
+    <tr>
+        <td> Qwen-2.5 </td>
+        <td> 82.70 % </td>
+        <td> 55.73 % </td>
+    </tr>
+    <tr>
+        <td> Llama-3.3 </td>
+        <td> 77.59 % </td>
+        <td> 58.91 % </td>
+    </tr>
+</table>
+
+
+
+    
