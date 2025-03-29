@@ -25,3 +25,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ## Preprocessing
+For running the preprocessing procedures run `preprocess.py` and set the dataset parameter to 'spider' or 'bird'. This will create the M-Schemas and final prompts.
+```
+python preprocess.py --dataset spider
+```
