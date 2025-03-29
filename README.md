@@ -45,7 +45,7 @@ python evaluate.py --dataset spider --model gpt-4o-2024-08-06
 ```
 
 ## Results
-Please note that the results may vary due to the inherent stochasticity of the LLM.
+Please note that the results may vary due to the inherent stochasticity of the LLM. For detailed evaluation results feel free to check out chapter 5 of the paper. 
 <table>
     <tr>
         <td> TDExA by Model </td>
@@ -74,6 +74,14 @@ Please note that the results may vary due to the inherent stochasticity of the L
     </tr>
 </table>
 
+## Citation
+```citation
+@article{beyond-query-generation,
+    author  =   {Cservenka Markus},
+    title   =   {Beyond Query Generation: Assessing Unanswerable Questions in Text-to-SQL},
+    year    =   {2025}
+}
+```
 
 
     
